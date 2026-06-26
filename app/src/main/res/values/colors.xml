@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Accessible Green and Red for high contrast -->
+    <color name="active_green">#2E7D32</color>
+    <color name="inactive_red">#C62828</color>
+</resources>

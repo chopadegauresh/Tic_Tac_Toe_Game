@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">XO</string>
+    <string name="heading">Welcome to Tic Tac Toe Game</string>
+    <string name="grid">Game Grid</string>
+    <string name="user_a">User A</string>
+    <string name="user_b">User B</string>
+    <string name="user_a_turn">User A: Tap to Play</string>
+    <string name="user_b_turn">User B: Tap to Play</string>
+    <string name="x_won">User A Won!</string>
+    <string name="o_won">User B Won!</string>
+    <string name="draw">It\'s a Draw</string>
+</resources>
